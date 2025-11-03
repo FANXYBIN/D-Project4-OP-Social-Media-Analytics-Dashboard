@@ -64,7 +64,7 @@ The system automated data ingestion, cleaning, anomaly detection, and visualizat
   - Cross-platform KPI comparisons  
 
 <div align="center">
-  <img src="images/OP_instagram.png" alt="Instagram Anomaly Detection" width="450"/>
+  <img src="images/OP_Instagram.png" alt="Instagram Anomaly Detection" width="450"/>
   <img src="images/OP_X.png" alt="Twitter Engagement Trends" width="450"/>
 </div>
 
