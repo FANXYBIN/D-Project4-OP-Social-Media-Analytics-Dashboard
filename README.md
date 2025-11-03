@@ -52,7 +52,7 @@ The system automated data ingestion, cleaning, anomaly detection, and visualizat
 ### 📊 Dashboard Framework
 
 <div align="center">
-  <img src="images/openrep_dashboard_overview.png" alt="OpenRep Analytics Dashboard Overview" width="600"/>
+  <img src="images/OP_Overview.png" alt="OpenRep Analytics Dashboard Overview" width="600"/>
   <p><em>Prototype dashboard integrating multi-platform KPIs with anomaly detection.</em></p>
 </div>
 
@@ -64,8 +64,8 @@ The system automated data ingestion, cleaning, anomaly detection, and visualizat
   - Cross-platform KPI comparisons  
 
 <div align="center">
-  <img src="images/openrep_anomaly_instagram.png" alt="Instagram Anomaly Detection" width="450"/>
-  <img src="images/openrep_twitter_engagement.png" alt="Twitter Engagement Trends" width="450"/>
+  <img src="images/OP_instagram.png" alt="Instagram Anomaly Detection" width="450"/>
+  <img src="images/OP_X.png" alt="Twitter Engagement Trends" width="450"/>
 </div>
 
 ---
