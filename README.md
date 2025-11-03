@@ -65,7 +65,7 @@ The system automated data ingestion, cleaning, anomaly detection, and visualizat
 
 <div align="center">
   <img src="images/OP_Instagram.png" alt="Instagram Anomaly Detection" width="450"/>
-  <img src="images/OP_X.png" alt="Twitter Engagement Trends" width="500"/>
+  <img src="images/OP_X.png" alt="Twitter Engagement Trends" width="480"/>
 </div>
 
 ---
